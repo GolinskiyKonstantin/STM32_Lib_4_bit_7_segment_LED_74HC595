@@ -7,8 +7,8 @@ STM32 Lib 4 bit 7 segment LED 74HC595
 
 Пример в файле example.txt
 
-## ФОТО ГОТОВОГО ИЗДЕЛИЯ:
-![](https://github.com/GolinskiyKonstantin/STM32_Lib_4_bit_7_segment_LED_74HC595/blob/4_bit_7_segment_module.jpg)
-![](https://github.com/GolinskiyKonstantin/STM32_Lib_4_bit_7_segment_LED_74HC595/blob/master/7-LED_74HC595.png)
+## ФОТО И СХЕМА МОДУЛЯ:
+![](https://github.com/GolinskiyKonstantin/STM32_Lib_4_bit_7_segment_LED_74HC595/blob/main/4_bit_7_segment_module.jpg)
+![](https://github.com/GolinskiyKonstantin/STM32_Lib_4_bit_7_segment_LED_74HC595/blob/main/7-LED_74HC595.png)
 
 По всем вопросам пишите: golinskiy.konstantin@gmail.com
