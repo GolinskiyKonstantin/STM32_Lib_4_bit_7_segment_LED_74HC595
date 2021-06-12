@@ -144,6 +144,9 @@ void FourDigit74HC595_sendNumber(char* num){
 		else if(num[len-1] == '.'){
 			dot = 1;
 		}
+		else if(num[len-1] == ' '){
+			position++;
+		}
 		else{
 			FourDigit74HC595_sendOneDigit( position, num[len-1]-48, dot );	
 			dot = 0;
